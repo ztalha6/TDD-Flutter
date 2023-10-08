@@ -7,7 +7,7 @@ class NumberTrivia extends Equatable {
   });
 
   final String? text;
-  final int? number;
+  final num? number;
 
   @override
   String toString() {
